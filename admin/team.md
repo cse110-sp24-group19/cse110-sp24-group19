@@ -22,7 +22,7 @@
   <img src="/assets/roster_pics/Charlie.jpg" alt="Charlie Photo" width="200"/>
   <!--![Charlie Photo](/assets/roster_pics/Charlie.jpg)-->
   > Hi, I’m Charlie Trinh, I am a 3rd-year computer science major with an interest in cybersecurity. I enjoy listening to music 🎧 and playing video games. 👾
-- [Xu Wenzhe](https://github.com/Markcmd): NULL <br>
+- [Xu Wenzhe](https://github.com/Markcmd): Developer <br>
   <img src="/assets/roster_pics/Mark (Wenzhe)_pic.jpeg" alt="Mark Photo" width="200"/>
   <!--![Xu Photo](/assets/roster_pics/Mark_(Wenzhe).jpeg)-->
   > Hi, my name is Mark (Wenzhe Xu), and I'm a third-year CS major student. I enjoy listening to soft piano music and staying active, especially through exercise. Recently, I've started learning how to swim correctly. I'm eager to dive into the AI field.  
