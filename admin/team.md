@@ -58,4 +58,4 @@
 2. Be realistic about what you can accomplish and communicate deadlines accordingly.
 
 ### Team Culture:
-Our team culture is built on the foundation of effective communication, deep respect for one another, unwavering responsibility and accountability, and a commitment to honesty and realism. We will win as a team and lose as a team, no code monkey is on an island.
+Our team culture is built on the foundation of effective communication, deep respect for one another, unwavering responsibility and accountability, and a commitment to honesty and realism. We will win as a team and lose as a team, no code monkey is an island.
