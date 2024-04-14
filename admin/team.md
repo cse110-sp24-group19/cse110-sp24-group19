@@ -3,7 +3,7 @@
 
 ## Roster and Tentative Roles (Links to Personal Github):
 - [Milana Gorobchenko](https://github.com/milgor931) Team Lead
-  ![Milana Photo](/assets/roster_pics/Milana.jpg)
+  ![Milana Photo](/assets/roster_pics/milana.jpg)
   > BRIEF OVERVIEW OF MEMBER
 - [Riana Ali](https://github.com/rianaali): Team Lead
   ![Riana Photo](path/to/photo)
@@ -15,13 +15,13 @@
   ![Charlie Photo](/assets/roster_pics/Charlie.jpg)
   > BRIEF OVERVIEW OF MEMBER
 - [Xu Wenzhe](https://github.com/Markcmd): NULL
-  ![Xu Photo](path/to/photo)
+  ![Xu Photo](/assets/roster_pics/Mark_(Wenzhe).jpeg)
   > BRIEF OVERVIEW OF MEMBER
 - [Ginger Smith](https://github.com/gingersmith4): Frontend / Backend
-  ![Ginger Photo](/assets/roster_pics/Ginger.jpg)
+  ![Ginger Photo](/assets/roster_pics/ginger.jpg)
   > BRIEF OVERVIEW OF MEMBER
 - [Brandon Panuco](https://github.com/bpanuco11): NULL
-  ![Brandon Photo](/assets/roster_pics/Brandon.jpg)
+  ![Brandon Photo](/assets/roster_pics/brandon.jpg)
   > BRIEF OVERVIEW OF MEMBER
 - [Nikolas Yanek](https://github.com/nikothomas): Frontend
   ![Nikolas Photo](path/to/photo)
