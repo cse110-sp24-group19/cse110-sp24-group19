@@ -6,8 +6,9 @@
 
 
 ## Roster and Tentative Roles (Links to Personal Github):
-- [Milana Gorobchenko](https://github.com/milgor931) Team Lead
-  ![Milana Photo](/assets/roster_pics/milana.png)
+- [Milana Gorobchenko](https://github.com/milgor931) Team Lead<br>
+  <img src="/assets/roster_pics/milana.png" alt="Milana Photo" width="200"/>
+  <!--![Milana Photo](/assets/roster_pics/milana.png)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Riana Ali](https://github.com/rianaali): Team Lead
   ![Riana Photo](path/to/photo)
@@ -15,23 +16,27 @@
 - [Julie Hong](https://github.com/Julie110): NULL
   ![Julie Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- [Charlie Trinh](https://github.com/charlitoes): Backend, Algorithm Design
-  ![Charlie Photo](/assets/roster_pics/Charlie.jpg)
+- [Charlie Trinh](https://github.com/charlitoes): Backend, Algorithm Design<br>
+  <img src="/assets/roster_pics/Charlie.jpg" alt="Charlie Photo" width="200"/>
+  <!--![Charlie Photo](/assets/roster_pics/Charlie.jpg)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Xu Wenzhe](https://github.com/Markcmd): NULL
   ![Xu Photo](/assets/roster_pics/Mark_(Wenzhe).jpeg)
   > BRIEF OVERVIEW OF MEMBER
-- [Ginger Smith](https://github.com/gingersmith4): Frontend / Backend
-  ![Ginger Photo](/assets/roster_pics/ginger.jpg)
+- [Ginger Smith](https://github.com/gingersmith4): Frontend / Backend<br>
+  <img src="/assets/roster_pics/ginger.jpg" alt="Ginger Photo" width="200"/>
+  <!--![Ginger Photo](/assets/roster_pics/ginger.jpg)-->
   > BRIEF OVERVIEW OF MEMBER
-- [Brandon Panuco](https://github.com/bpanuco11): NULL
-  ![Brandon Photo](/assets/roster_pics/brandon.jpg)
+- [Brandon Panuco](https://github.com/bpanuco11): Backend<br>
+  <img src="/assets/roster_pics/brandon.jpg" alt="Brandon Photo" width="200"/>
+  <!--![Brandon Photo](/assets/roster_pics/brandon.jpg)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Nikolas Yanek](https://github.com/nikothomas): Frontend
   ![Nikolas Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- [Julio Rivas](https://github.com/jrivas112): NULL
-  ![Julio Photo](/assets/roster_pics/julio.jpg)
+- [Julio Rivas](https://github.com/jrivas112): NULL<br>
+  <img src="/assets/roster_pics/julio.jpg" alt="Julio Photo" width="200"/>
+  <!--![Julio Photo](/assets/roster_pics/julio.jpg)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Allison Lane](https://github.com/a4lane): NULL
   ![Allison Photo](path/to/photo)
