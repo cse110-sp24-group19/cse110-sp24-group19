@@ -2,13 +2,13 @@
 ![Logo](branding/19logo_blue.png)
 
 ## Roster and Tentative Roles (Links to Personal Github):
-- [Milana Gorobchenko](https://github.com/milanag) Team Lead
+- [Milana Gorobchenko](https://github.com/milgor931) Team Lead
   ![Milana Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
 - [Riana Ali](https://github.com/milanag): Team Lead
   ![Riana Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- [Julie Hong](https://github.com/milanag): NULL
+- [Julie Hong](https://github.com/Julie110): NULL
   ![Julie Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
 - [Charlie Trinh](https://github.com/charlitoes): Backend, Algorithm Design
