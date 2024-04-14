@@ -26,7 +26,7 @@
 - [Ginger Smith](https://github.com/gingersmith4): Frontend / Backend<br>
   <img src="/assets/roster_pics/ginger.jpg" alt="Ginger Photo" width="200"/>
   <!--![Ginger Photo](/assets/roster_pics/ginger.jpg)-->
-  > BRIEF OVERVIEW OF MEMBER
+  > Hello 👋 my name is Ginger and I'm a third year studying computer science! I'm minoring in French 🇫🇷  literature and am in ERC. Some of my hobbies are crochet 🧶 and ukelele! 🎶 
 - [Brandon Panuco](https://github.com/bpanuco11): Backend<br>
   <img src="/assets/roster_pics/brandon.jpg" alt="Brandon Photo" width="200"/>
   <!--![Brandon Photo](/assets/roster_pics/brandon.jpg)-->
