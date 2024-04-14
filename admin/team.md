@@ -43,7 +43,7 @@
   <img src="/assets/roster_pics/julio.jpg" alt="Julio Photo" width="200"/>
   <!--![Julio Photo](/assets/roster_pics/julio.jpg)-->
   > Hello there! I’m Julio Rivas, a passionate programmer and tech enthusiast. 🧑🏻‍💻 I love diving into new technologies and exploring the endless possibilities they offer.
-- [Allison Lane](https://github.com/a4lane): NULL<br>
+- [Allison Lane](https://github.com/a4lane): Developer<br>
   <img src="/assets/roster_pics/IMG.jpg" alt="Allison Photo" width="200"/>
   <!--![Allison Photo](path/to/photo)-->
   > Hello, my name is Allison. I am a third-year computer science student. In my free time I love to cook 🧁, read 📚, and practice yoga. 🧘🏻‍♀️
