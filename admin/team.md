@@ -5,7 +5,7 @@
 - [Milana Gorobchenko](https://github.com/milgor931) Team Lead
   ![Milana Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- [Riana Ali](https://github.com/milanag): Team Lead
+- [Riana Ali](https://github.com/): Team Lead
   ![Riana Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
 - [Julie Hong](https://github.com/Julie110): NULL
