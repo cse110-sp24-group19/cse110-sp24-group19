@@ -2,7 +2,7 @@
 <!-- ![Logo](branding/19logo_blue.png) 
 <img src="branding/19logo_blue.png" alt="Logo" width="275"/>
 -->
-<img src="branding/19logo_blue.png" alt="Logo" width="200"/>
+<img src="branding/19logo_blue.png" alt="Logo" width="200" height="200"/>
 
 
 ## Roster and Tentative Roles (Links to Personal Github):
@@ -28,7 +28,7 @@
   <!--![Ginger Photo](/assets/roster_pics/ginger.jpg)-->
   > Hello 👋 my name is Ginger and I'm a third year studying computer science! I'm minoring in French 🇫🇷  literature and am in ERC. Some of my hobbies are crochet 🧶 and ukelele! 🎶 
 - [Brandon Panuco](https://github.com/bpanuco11): Backend<br>
-  <img src="/assets/roster_pics/brandon.jpg" alt="Brandon Photo" width="200"/>
+  <img src="/assets/roster_pics/brandon.jpg" alt="Brandon Photo" width="200" height="200"/>
   <!--![Brandon Photo](/assets/roster_pics/brandon.jpg)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Nikolas Yanek](https://github.com/nikothomas): Frontend
