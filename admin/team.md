@@ -23,7 +23,7 @@
   <!--![Charlie Photo](/assets/roster_pics/Charlie.jpg)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Xu Wenzhe](https://github.com/Markcmd): NULL <br>
-  <img src="/assets/roster_pics/Mark (Wenzhe)_pic.png" alt="Mark Photo" width="200"/>
+  <img src="/assets/roster_pics/Mark (Wenzhe)_pic.jpeg" alt="Mark Photo" width="200"/>
   <!--![Xu Photo](/assets/roster_pics/Mark_(Wenzhe).jpeg)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Ginger Smith](https://github.com/gingersmith4): Frontend / Backend<br>
