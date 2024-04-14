@@ -9,11 +9,11 @@
 - [Milana Gorobchenko](https://github.com/milgor931) Team Lead<br>
   <img src="/assets/roster_pics/milana.png" alt="Milana Photo" width="200"/>
   <!--![Milana Photo](/assets/roster_pics/milana.png)-->
-  > BRIEF OVERVIEW OF MEMBER
+  > Hello 🙋🏻‍♀️ my name is Milana Gorobchenko. I am a fourth-year computer science major. I’ve always loved the perfection of mathematics and the mysteriousness of code! ✨
 - [Riana Ali](https://github.com/rianaali): Team Lead <br>
-  <img src="/assets/roster_pics/IMG.jpg" alt="Riana Photo" width="200"/>
-  <!--![Riana Photo](path/to/photo)-->
-  > BRIEF OVERVIEW OF MEMBER
+  <img src="/assets/roster_pics/riana.jpg" alt="Riana Photo" width="200"/>
+  <!--![Riana Photo](/assets/roster_pics/riana.jpg)-->
+  > Hello, my name is Riana! I am a computer science-math major. Some of my favorite topics to learn about are algorithms, discrete math, and new technologies! 😊
 - [Julie Hong](https://github.com/Julie827): Frontend / Backend <br>
   <img src="/assets/roster_pics/julie.jpg" alt="Julie Photo" width="200"/>
   <!--![Julie Photo](/assets/roster_pics/julie.jpg)-->
@@ -21,11 +21,11 @@
 - [Charlie Trinh](https://github.com/charlitoes): Backend, Algorithm Design<br>
   <img src="/assets/roster_pics/Charlie.jpg" alt="Charlie Photo" width="200"/>
   <!--![Charlie Photo](/assets/roster_pics/Charlie.jpg)-->
-  > BRIEF OVERVIEW OF MEMBER
+  > Hi, I’m Charlie Trinh, I am a 3rd-year computer science major with an interest in cybersecurity. I enjoy listening to music 🎧 and playing video games. 👾
 - [Xu Wenzhe](https://github.com/Markcmd): NULL <br>
   <img src="/assets/roster_pics/Mark (Wenzhe)_pic.jpeg" alt="Mark Photo" width="200"/>
   <!--![Xu Photo](/assets/roster_pics/Mark_(Wenzhe).jpeg)-->
-  > BRIEF OVERVIEW OF MEMBER
+  > Hi, my name is Mark. I’m passionate about solving problems 🧩 through code and am always eager to learn new technologies. My favorite programming language is Python. 
 - [Ginger Smith](https://github.com/gingersmith4): Frontend / Backend<br>
   <img src="/assets/roster_pics/ginger.jpg" alt="Ginger Photo" width="200"/>
   <!--![Ginger Photo](/assets/roster_pics/ginger.jpg)-->
@@ -42,15 +42,15 @@
 - [Julio Rivas](https://github.com/jrivas112): NULL<br>
   <img src="/assets/roster_pics/julio.jpg" alt="Julio Photo" width="200"/>
   <!--![Julio Photo](/assets/roster_pics/julio.jpg)-->
-  > BRIEF OVERVIEW OF MEMBER
+  > Hello there! I’m Julio Rivas, a passionate programmer and tech enthusiast. 🧑🏻‍💻 I love diving into new technologies and exploring the endless possibilities they offer.
 - [Allison Lane](https://github.com/a4lane): NULL<br>
   <img src="/assets/roster_pics/IMG.jpg" alt="Allison Photo" width="200"/>
   <!--![Allison Photo](path/to/photo)-->
-  > BRIEF OVERVIEW OF MEMBER
+  > Hello, my name is Allison. I am a third-year computer science student. In my free time I love to cook 🧁, read 📚, and practice yoga. 🧘🏻‍♀️
 - [David De-santiago](https://github.com/ddesantiag0): NULL<br>
-  <img src="/assets/roster_pics/IMG.jpg" alt="David Photo" width="200"/>
-  <!--![David Photo](path/to/photo)-->
-  > BRIEF OVERVIEW OF MEMBER
+  <img src="/assets/roster_pics/david.jpg" alt="David Photo" width="200"/>
+  <!--![David Photo](/assets/roster_pics/david.jpg)-->
+  > Hi, I’m David, a Computer Engineering student at UC San Diego, where I’m blending my passion for technology 💻 with practical problem-solving skills. ✍🏻
 
 ## Team Standards and Values:
 
