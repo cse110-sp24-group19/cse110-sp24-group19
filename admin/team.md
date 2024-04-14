@@ -2,37 +2,37 @@
 ![Logo](branding/19logo_blue.png)
 
 ## Roster and Tentative Roles (Links to Personal Github):
-- Milana Gorobchenko: Team Lead
+- [Milana Gorobchenko](https://github.com/milanag) Team Lead
   ![Milana Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- Riana Ali: Team Lead
+- [Riana Ali](https://github.com/milanag): Team Lead
   ![Riana Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- Julie Hong: NULL
+- [Julie Hong](https://github.com/milanag): NULL
   ![Julie Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- Charlie Trinh: Backend, Algorithm Design
+- [Charlie Trinh](https://github.com/charlitoes): Backend, Algorithm Design
   ![Charlie Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- Xu Wenzhe: NULL
+- [Xu Wenzhe](https://github.com/Markcmd): NULL
   ![Xu Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- Ginger Smith: Frontend / Backend
+- [Ginger Smith](https://github.com/gingersmith4): Frontend / Backend
   ![Ginger Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- Brandon Panuco: NULL
+- [Brandon Panuco](https://github.com/bpanuco11): NULL
   ![Brandon Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- Nikolas Yanek: Frontend
+- [Nikolas Yanek](https://github.com/nikothomas): Frontend
   ![Nikolas Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- Julio Midence: NULL
+- [Julio Rivas](https://github.com/jrivas112): NULL
   ![Julio Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- Allison Lane: NULL
+- [Allison Lane](https://github.com/a4lane): NULL
   ![Allison Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
-- David De-santiago: NULL
+- [David De-santiago](https://github.com/ddesantiag0): NULL
   ![David Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
 
