@@ -47,7 +47,7 @@
   <img src="/assets/roster_pics/IMG.jpg" alt="Allison Photo" width="200"/>
   <!--![Allison Photo](path/to/photo)-->
   > Hello, my name is Allison. I am a third-year computer science student. In my free time I love to cook 🧁, read 📚, and practice yoga. 🧘🏻‍♀️
-- [David De-santiago](https://github.com/ddesantiag0): NULL<br>
+- [David De-santiago](https://github.com/ddesantiag0): Developer<br>
   <img src="/assets/roster_pics/david.jpg" alt="David Photo" width="200"/>
   <!--![David Photo](/assets/roster_pics/david.jpg)-->
   > Hi, I’m David, a Computer Engineering student at UC San Diego, where I’m blending my passion for technology 💻 with practical problem-solving skills. ✍🏻
