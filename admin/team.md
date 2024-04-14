@@ -14,9 +14,9 @@
   <img src="/assets/roster_pics/IMG.jpg" alt="Riana Photo" width="200"/>
   <!--![Riana Photo](path/to/photo)-->
   > BRIEF OVERVIEW OF MEMBER
-- [Julie Hong](https://github.com/Julie110): NULL <br>
-  <img src="/assets/roster_pics/IMG.jpg" alt="Julie Photo" width="200"/>
-  <!--![Julie Photo](path/to/photo)-->
+- [Julie Hong](https://github.com/Julie827): Frontend / Backend <br>
+  <img src="/assets/roster_pics/julie.jpg" alt="Julie Photo" width="200"/>
+  <!--![Julie Photo](/assets/roster_pics/julie.jpg)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Charlie Trinh](https://github.com/charlitoes): Backend, Algorithm Design<br>
   <img src="/assets/roster_pics/Charlie.jpg" alt="Charlie Photo" width="200"/>
