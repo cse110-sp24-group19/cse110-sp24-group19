@@ -1,5 +1,5 @@
 ### Team Coding Monkeys
-![Logo]((https://github.com/cse110-sp24-group19/cse110-sp24-group19/blob/main/admin/branding/19logo_blue.png?raw=true))
+![Logo](branding/19logo_blue.png)
 
 https://raw.githubusercontent.com/cse110-sp24-group19/cse110-sp24-group19/main/assets/19logo_blue.png
 
