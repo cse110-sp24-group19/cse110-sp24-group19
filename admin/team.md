@@ -1,5 +1,9 @@
 # Team Coding Monkeys
-![Logo](branding/19logo_blue.png)
+<!-- ![Logo](branding/19logo_blue.png) 
+<img src="branding/19logo_blue.png" alt="Logo" width="275"/>
+-->
+<img src="branding/19logo_blue.png" alt="Logo" width="200"/>
+
 
 ## Roster and Tentative Roles (Links to Personal Github):
 - [Milana Gorobchenko](https://github.com/milgor931) Team Lead
