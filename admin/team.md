@@ -1,8 +1,6 @@
 ### Team Coding Monkeys
 ![Logo](branding/19logo_blue.png)
 
-https://raw.githubusercontent.com/cse110-sp24-group19/cse110-sp24-group19/main/assets/19logo_blue.png
-
 ### Roster and Tentative Roles:
 - Milana Gorobchenko: Team Lead
   >
