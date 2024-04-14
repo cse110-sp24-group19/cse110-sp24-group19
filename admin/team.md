@@ -12,7 +12,7 @@
   ![Julie Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
 - [Charlie Trinh](https://github.com/charlitoes): Backend, Algorithm Design
-  ![Charlie Photo](cse110-sp24-group19/assets/roster_pics/Charlie.jpg)
+  ![Charlie Photo](/assets/roster_pics/Charlie.jpg)
   > BRIEF OVERVIEW OF MEMBER
 - [Xu Wenzhe](https://github.com/Markcmd): NULL
   ![Xu Photo](path/to/photo)
