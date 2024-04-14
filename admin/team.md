@@ -17,7 +17,7 @@
 - [Julie Hong](https://github.com/Julie827): Frontend / Backend <br>
   <img src="/assets/roster_pics/julie.jpg" alt="Julie Photo" width="200"/>
   <!--![Julie Photo](/assets/roster_pics/julie.jpg)-->
-  > BRIEF OVERVIEW OF MEMBER
+  > Hello! My name is Julie, and I'm a third year computer sicence major. Eating avocado makes me so happy! 🥑
 - [Charlie Trinh](https://github.com/charlitoes): Backend, Algorithm Design<br>
   <img src="/assets/roster_pics/Charlie.jpg" alt="Charlie Photo" width="200"/>
   <!--![Charlie Photo](/assets/roster_pics/Charlie.jpg)-->
