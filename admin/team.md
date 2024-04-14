@@ -1,32 +1,42 @@
-### Team Coding Monkeys
+# Team Coding Monkeys
 ![Logo](branding/19logo_blue.png)
 
-### Roster and Tentative Roles:
+## Roster and Tentative Roles (Links to Personal Github):
 - Milana Gorobchenko: Team Lead
-  >
+  ![Milana Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 - Riana Ali: Team Lead
-  >
+  ![Riana Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 - Julie Hong: NULL
-  >
+  ![Julie Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 - Charlie Trinh: Backend, Algorithm Design
-  >
+  ![Charlie Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 - Xu Wenzhe: NULL
-  >
+  ![Xu Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 - Ginger Smith: Frontend / Backend
-  >
+  ![Ginger Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 - Brandon Panuco: NULL
-  >
+  ![Brandon Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 - Nikolas Yanek: Frontend
-  >
+  ![Nikolas Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 - Julio Midence: NULL
-  >
+  ![Julio Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 - Allison Lane: NULL
-  >
+  ![Allison Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 - David De-santiago: NULL
-  >
--
+  ![David Photo](path/to/photo)
+  > BRIEF OVERVIEW OF MEMBER
 
-#### Team Standards and Values:
+## Team Standards and Values:
 
 **Communication:**
 1. Always communicate when unable to attend a meeting.
@@ -48,19 +58,4 @@
 2. Be realistic about what you can accomplish and communicate deadlines accordingly.
 
 ### Team Culture:
-
-
-### TEAM PAGE
-- Nick
-- Ginger
-- Julio
-- Julie
-- Charlie
-- David
-- Brandon
-
-### TEAM VIDEO
-- Milana + Riana make sure to do intro
-- Mark will collect video + edit it together
-- Allison
-- Milana
+Our team culture is built on the foundation of effective communication, deep respect for one another, unwavering responsibility and accountability, and a commitment to honesty and realism. We will win as a team and lose as a team, no code monkey is on an island.
