@@ -1,5 +1,6 @@
 ### Team Coding Monkeys
-[![19 Logo](https://raw.githubusercontent.com/cse110-sp24-group19/cse110-sp24-group19/main/assets/19logo_blue.png)](https://github.com/cse110-sp24-group19/cse110-sp24-group19)
+[![19 Logo](https://raw.githubusercontent.com/cse110-sp24-group19/cse110-sp24-group19/main/assets/19logo_blue.png)](https://github.com/cse110-sp24-group19/cse110-sp24-group19)]
+
 
 ### Roster and Tentative Roles:
 - Milana: Team Lead
