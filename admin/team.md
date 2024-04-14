@@ -10,18 +10,21 @@
   <img src="/assets/roster_pics/milana.png" alt="Milana Photo" width="200"/>
   <!--![Milana Photo](/assets/roster_pics/milana.png)-->
   > BRIEF OVERVIEW OF MEMBER
-- [Riana Ali](https://github.com/rianaali): Team Lead
-  ![Riana Photo](path/to/photo)
+- [Riana Ali](https://github.com/rianaali): Team Lead <br>
+  <img src="/assets/roster_pics/IMG.jpg" alt="Riana Photo" width="200"/>
+  <!--![Riana Photo](path/to/photo)-->
   > BRIEF OVERVIEW OF MEMBER
-- [Julie Hong](https://github.com/Julie110): NULL
-  ![Julie Photo](path/to/photo)
+- [Julie Hong](https://github.com/Julie110): NULL <br>
+  <img src="/assets/roster_pics/IMG.jpg" alt="Julie Photo" width="200"/>
+  <!--![Julie Photo](path/to/photo)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Charlie Trinh](https://github.com/charlitoes): Backend, Algorithm Design<br>
   <img src="/assets/roster_pics/Charlie.jpg" alt="Charlie Photo" width="200"/>
   <!--![Charlie Photo](/assets/roster_pics/Charlie.jpg)-->
   > BRIEF OVERVIEW OF MEMBER
-- [Xu Wenzhe](https://github.com/Markcmd): NULL
-  ![Xu Photo](/assets/roster_pics/Mark_(Wenzhe).jpeg)
+- [Xu Wenzhe](https://github.com/Markcmd): NULL <br>
+  <img src="/assets/roster_pics/IMG.jpg" alt="Mark Photo" width="200"/>
+  <!--![Xu Photo](/assets/roster_pics/Mark_(Wenzhe).jpeg)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Ginger Smith](https://github.com/gingersmith4): Frontend / Backend<br>
   <img src="/assets/roster_pics/ginger.jpg" alt="Ginger Photo" width="200"/>
@@ -31,18 +34,21 @@
   <img src="/assets/roster_pics/brandon.jpg" alt="Brandon Photo" width="200" height="200"/>
   <!--![Brandon Photo](/assets/roster_pics/brandon.jpg)-->
   > BRIEF OVERVIEW OF MEMBER
-- [Nikolas Yanek](https://github.com/nikothomas): Frontend
-  ![Nikolas Photo](path/to/photo)
+- [Nikolas Yanek](https://github.com/nikothomas): Frontend<br>
+  <img src="/assets/roster_pics/IMG.jpg" alt="Nikolas Photo" width="200"/>
+  <!--![Nikolas Photo](path/to/photo)-->
   > BRIEF OVERVIEW OF MEMBER
 - [Julio Rivas](https://github.com/jrivas112): NULL<br>
   <img src="/assets/roster_pics/julio.jpg" alt="Julio Photo" width="200"/>
   <!--![Julio Photo](/assets/roster_pics/julio.jpg)-->
   > BRIEF OVERVIEW OF MEMBER
-- [Allison Lane](https://github.com/a4lane): NULL
-  ![Allison Photo](path/to/photo)
+- [Allison Lane](https://github.com/a4lane): NULL<br>
+  <img src="/assets/roster_pics/IMG.jpg" alt="Allison Photo" width="200"/>
+  <!--![Allison Photo](path/to/photo)-->
   > BRIEF OVERVIEW OF MEMBER
-- [David De-santiago](https://github.com/ddesantiag0): NULL
-  ![David Photo](path/to/photo)
+- [David De-santiago](https://github.com/ddesantiag0): NULL<br>
+  <img src="/assets/roster_pics/IMG.jpg" alt="David Photo" width="200"/>
+  <!--![David Photo](path/to/photo)-->
   > BRIEF OVERVIEW OF MEMBER
 
 ## Team Standards and Values:
