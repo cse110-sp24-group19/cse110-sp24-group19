@@ -9,7 +9,7 @@
 - [Milana Gorobchenko](https://github.com/milgor931) Team Lead<br>
   <img src="/assets/roster_pics/milana.png" alt="Milana Photo" width="200"/>
   <!--![Milana Photo](/assets/roster_pics/milana.png)-->
-  > Hello 🙋🏻‍♀️ my name is Milana Gorobchenko. I am a fourth-year computer science major. I’ve always loved the perfection of mathematics and the mysteriousness of code! ✨
+  > Hi there! My name is Milana Gorobchenko and I am a fourth year computer science major! I love dance, art, and technology. I want to learn more about the intersection of art and code in my future.
 - [Riana Ali](https://github.com/rianaali): Team Lead <br>
   <img src="/assets/roster_pics/riana.jpg" alt="Riana Photo" width="200"/>
   <!--![Riana Photo](/assets/roster_pics/riana.jpg)-->
@@ -25,7 +25,7 @@
 - [Xu Wenzhe](https://github.com/Markcmd): NULL <br>
   <img src="/assets/roster_pics/Mark (Wenzhe)_pic.jpeg" alt="Mark Photo" width="200"/>
   <!--![Xu Photo](/assets/roster_pics/Mark_(Wenzhe).jpeg)-->
-  > Hi, my name is Mark. I’m passionate about solving problems 🧩 through code and am always eager to learn new technologies. My favorite programming language is Python. 
+  > Hi, my name is Mark (Wenzhe Xu), and I'm a third-year CS major student. I enjoy listening to soft piano music and staying active, especially through exercise. Recently, I've started learning how to swim correctly. I'm eager to dive into the AI field.  
 - [Ginger Smith](https://github.com/gingersmith4): Frontend / Backend<br>
   <img src="/assets/roster_pics/ginger.jpg" alt="Ginger Photo" width="200"/>
   <!--![Ginger Photo](/assets/roster_pics/ginger.jpg)-->
@@ -39,7 +39,7 @@
   <img src="/assets/roster_pics/Nikolas.jpg" alt="Nikolas Photo" width="200"/>
   <!--![Nikolas Photo](path/to/photo)-->
   > Hello! My name is Nikolas and I am a 4th year Cognitive Science major. Outside of class I'm working on a program to help Special Education teachers with their workload.
-- [Julio Rivas](https://github.com/jrivas112): NULL<br>
+- [Julio Rivas](https://github.com/jrivas112): Developer<br>
   <img src="/assets/roster_pics/julio.jpg" alt="Julio Photo" width="200"/>
   <!--![Julio Photo](/assets/roster_pics/julio.jpg)-->
   > Hello there! I’m Julio Rivas, a passionate programmer and tech enthusiast. 🧑🏻‍💻 I love diving into new technologies and exploring the endless possibilities they offer.
