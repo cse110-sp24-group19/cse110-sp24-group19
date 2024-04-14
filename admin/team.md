@@ -35,10 +35,10 @@
   <!--![Brandon Photo](/assets/roster_pics/brandon.jpg)-->
   > Hi my name is Brandon and I am a transfer student from Imperial Valley College majoring in Computer Science. During my spare time I like to watch the premier league
   and take my dogs for a walk to the park.
-- [Nikolas Yanek](https://github.com/nikothomas): Frontend<br>
+- [Nikolas Yanek](https://github.com/nikothomas): Designer Frontend<br>
   <img src="/assets/roster_pics/Nikolas.jpg" alt="Nikolas Photo" width="200"/>
   <!--![Nikolas Photo](path/to/photo)-->
-  > Hello! Myname is Nikolas and I am a 4th year Cognitive Science major. Outside of class I'm working on a program to help Special Education teachers with their workload.
+  > Hello! My name is Nikolas and I am a 4th year Cognitive Science major. Outside of class I'm working on a program to help Special Education teachers with their workload.
 - [Julio Rivas](https://github.com/jrivas112): NULL<br>
   <img src="/assets/roster_pics/julio.jpg" alt="Julio Photo" width="200"/>
   <!--![Julio Photo](/assets/roster_pics/julio.jpg)-->
