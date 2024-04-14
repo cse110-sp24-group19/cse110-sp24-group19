@@ -27,7 +27,7 @@
   ![Nikolas Photo](path/to/photo)
   > BRIEF OVERVIEW OF MEMBER
 - [Julio Rivas](https://github.com/jrivas112): NULL
-  ![Julio Photo](path/to/photo)
+  ![Julio Photo](/assets/roster_pics/julio.jpg)
   > BRIEF OVERVIEW OF MEMBER
 - [Allison Lane](https://github.com/a4lane): NULL
   ![Allison Photo](path/to/photo)
