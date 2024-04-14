@@ -33,7 +33,8 @@
 - [Brandon Panuco](https://github.com/bpanuco11): Backend<br>
   <img src="/assets/roster_pics/brandon.jpg" alt="Brandon Photo" width="200" height="200"/>
   <!--![Brandon Photo](/assets/roster_pics/brandon.jpg)-->
-  > BRIEF OVERVIEW OF MEMBER
+  > Hi my name is Brandon and I am a transfer student from Imperial Valley College majoring in Computer Science. During my spare time I like to watch the premier league
+  and take my dogs for a walk to the park.
 - [Nikolas Yanek](https://github.com/nikothomas): Frontend<br>
   <img src="/assets/roster_pics/IMG.jpg" alt="Nikolas Photo" width="200"/>
   <!--![Nikolas Photo](path/to/photo)-->
