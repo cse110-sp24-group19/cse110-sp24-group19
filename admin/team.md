@@ -1,26 +1,32 @@
 ### Team Coding Monkeys
-[![19 Logo](https://raw.githubusercontent.com/cse110-sp24-group19/cse110-sp24-group19/main/assets/19logo_blue.png)](https://github.com/cse110-sp24-group19/cse110-sp24-group19)
+![Logo]((https://github.com/cse110-sp24-group19/cse110-sp24-group19/blob/main/admin/branding/19logo_blue.png?raw=true))
+
 https://raw.githubusercontent.com/cse110-sp24-group19/cse110-sp24-group19/main/assets/19logo_blue.png
 
 ### Roster and Tentative Roles:
-- Milana: Team Lead
+- Milana Gorobchenko: Team Lead
   >
-- Riana: Team Lead
+- Riana Ali: Team Lead
   >
-- Julie:
+- Julie Hong: NULL
   >
-- Charlie: Backend, Algorithm Design
+- Charlie Trinh: Backend, Algorithm Design
   >
-- Xu Wenzhe:
+- Xu Wenzhe: NULL
   >
 - Ginger Smith: Frontend / Backend
   >
-- Brandon Panuco:
+- Brandon Panuco: NULL
   >
-- Nikolas Yanek:
+- Nikolas Yanek: Frontend
   >
-- Julio Rivas:
+- Julio Midence: NULL
   >
+- Allison Lane: NULL
+  >
+- David De-santiago: NULL
+  >
+-
 
 #### Team Standards and Values:
 
