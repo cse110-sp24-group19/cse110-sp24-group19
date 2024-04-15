@@ -17,6 +17,7 @@
 - Brandon Panuco 
 - Nikolas Yanek
 - Julio Rivas
+- Allison Lane
 
 ## Agenda:
 - Create Team Standards
@@ -71,6 +72,7 @@
 - **Brandon Panuco:** Backend
 - **Nikolas Yanek:** Designer Frontend
 - **Julio Rivas:** Developer
+- **Allison Lane:** Developer 
 
 ### Team Page:
 - Nick
