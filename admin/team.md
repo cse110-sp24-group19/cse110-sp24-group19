@@ -6,7 +6,7 @@
 
 
 ## Roster and Tentative Roles (Links to Personal Github):
-- [Milana Gorobchenko](https://github.com/milgor931) Team Lead<br>
+- [Milana Gorobchenko](https://github.com/milgor931): Team Lead<br>
   <img src="/assets/roster_pics/milana.png" alt="Milana Photo" width="200"/>
   <!--![Milana Photo](/assets/roster_pics/milana.png)-->
   > Hi there! My name is Milana Gorobchenko and I am a fourth year computer science major! I love dance, art, and technology. I want to learn more about the intersection of art and code in my future.
