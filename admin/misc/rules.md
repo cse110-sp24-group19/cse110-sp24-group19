@@ -12,7 +12,7 @@
 All members are expected to check Slack at least once a day.
 
 ## 3. Scheduling Meetings
-At the end of each class, teams will convene outside the lecture room to coordinate and schedule their next meeting.
+At the end of each class, all team members will convene outside the lecture room to coordinate and schedule their next meeting.
 
 ## 4. General Responsibilities for All Team Members
 - Communicate about task deadlines and share the responsibility for submitting assignments.
