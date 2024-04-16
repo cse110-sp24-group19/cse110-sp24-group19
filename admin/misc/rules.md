@@ -9,17 +9,17 @@
 - **Team Members:** Milana Gorobchenko, Riana Ali, Allison Lane, Brandon Panuco, Charlie Trinh, David De-santiago, Ginger Smith, Julie Hong, Julio Rivas Midence, Nikolas Yanek-Chrones, Wenzhe Xu
 
 ## 2. Primary Means of Communication and Expectations
-All members are expected to check Slack at least once a day.
+All team members are expected to check Slack at least once a day.
 
 ## 3. Scheduling Meetings
 At the end of each class, all team members will convene outside the lecture room to coordinate and schedule their next meeting.
 
 ## 4. General Responsibilities for All Team Members
-- Communicate about task deadlines and share the responsibility for submitting assignments.
-- Ensure all submissions are completed 2-3 days before the deadline to avoid any last-minute issues.
-- Be open about preferences and limitations regarding tasks, and set realistic deadlines for what they can achieve.
-- Keep meetings efficient with a clear agenda and purpose, and inform the team if unable to attend.
-- Maintain open communication, especially when tasks overlap.
+- All team members will communicate about task deadlines and share the responsibility for submitting assignments.
+- All team members will ensure that all submissions are completed 2-3 days before the deadline to avoid any last-minute issues. 
+- All team members will be open about their preferences and limitations regarding tasks and will set realistic deadlines for what they can achieve. 
+- All team members will keep meetings efficient with a clear agenda and purpose and will inform the team if they cannot attend.
+- All team members will maintain open communication, especially when tasks overlap.
 
 ## 5. Conflict Resolution
 If a team member is not meeting deadlines, the team agrees to thoroughly discuss the reasons for the issue and actively seek ways to improve before escalating the matter to a TA or professor.
