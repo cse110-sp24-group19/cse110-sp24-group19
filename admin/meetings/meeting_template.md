@@ -6,16 +6,18 @@
 
 <!-- Note which members are present / absent -->
 ## Attendees:
-- Milana, Team Lead
-- Riana, Team Lead
-- Julie
-- Charlie 
-- Xu Wenzhe 
-- Ginger Smith 
-- Brandon Panuco 
-- Nikolas Yanek
-- Julio Rivas
-- Allison Lane
+| Present      |             |            |            |
+| -----------  | ----------- |----------- |----------- |
+| Milana       | Allison     | Ginger     | Mark (Xu)  |
+| Riana        | Brandon     | Julie      | Nikolas    |
+| (team leads) | Charlie     | Julio      |            |
+
+<!--If no one is absent you can delete this, else move their names to the table -->
+| Absent       |
+| -----------  |
+| none         |
+| none         |
+
 
 ## Agenda:
 1. old unresolved business from the previous meeting
