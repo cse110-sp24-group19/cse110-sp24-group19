@@ -20,7 +20,7 @@
 
 
 ## Agenda:
-1. old unresolved business from the previous meeting
+1. Old unresolved business from the previous meeting
 2. Any new business to be discussed
 3. Anything that was on the agenda but was not discussed (save for next meeting's old business)
 
