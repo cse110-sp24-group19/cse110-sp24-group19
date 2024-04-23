@@ -7,11 +7,7 @@
 
 <!-- Note which members are present / absent (our team has 11 people) -->
 ## Attendees:
-| Present      |             |            |            |
-| -----------  | ----------- |----------- |----------- |
-|              | Allison     | David      |            |
-| Riana        | Brandon     | Ginger     | Mark (Xu)  |
-| (team leads) |             | Julie      | Nikolas    |
+Present: Allison, David, Riana, Brandon, Ginger, Mark (Xu), Julie, Nikolas
 
 <!--If no one is absent you can delete this, else move their names to the table -->
 | Absent       |
@@ -32,7 +28,7 @@ B. New business -
 C. Anything that was on the agenda but was not discussed (save for next meeting's old business)
 
 ## General notes
-Links: [Canvas Assignment](https://canvas.ucsd.edu/courses/54609/assignments/778826) [Miro Board](https://miro.com/app/board/uXjVKSXl2mU=/) 
+Links: [Canvas Assignment](https://canvas.ucsd.edu/courses/54609/assignments/778826) [Miro Board](https://miro.com/app/board/uXjVKSXl2mU=/) [Design Notes](https://docs.google.com/document/d/1RRxfIzp936yZyfb_oy9ZlelqoVs3Dori5Drx5pyAO9A/edit)
 
 Guiding principle shared by Riana: MVP (Minimum Viable Project)
 
@@ -74,13 +70,15 @@ Shareout (round robin) of what we put on the Miro board:
 
 ## Decisions
 Any decisions made & their reasoning (if there were dissenting opinions include them, then write why the group decided to make that decision anyways)
-1. Which widget we're going to do
+1. Which widget we're going to do - voting in Slack: **calendar**
+2. 
 
 
 ## To dos 
 Include who, what, when it's due
-- [x] Task 1: description, person, deadline
 - [ ] Meet tomorrow
+- [ ] Nik and Ginger make a design: 2 or 3 screens sketched out, by tomorrow: each make a design, add to the Miro board
+- [ ] Julie organize Miro board: brainstorm section + design section, by the meeting tomorrow
 
 
-### When the meeting finished: 
+### When the meeting finished: 5:25pm
