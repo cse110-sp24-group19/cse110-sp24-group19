@@ -33,7 +33,8 @@ C. Anything that was on the agenda but was not discussed (save for next meeting'
 
 ## General notes
 Links: [Canvas Assignment](https://canvas.ucsd.edu/courses/54609/assignments/778826) [Miro Board](https://miro.com/app/board/uXjVKSXl2mU=/) 
-MVP (Minimum Viable Project)
+
+Guiding principle shared by Riana: MVP (Minimum Viable Project)
 
 Shareout (round robin) of what we put on the Miro board:
 - Allison: circular sentiment widget
@@ -45,6 +46,31 @@ Shareout (round robin) of what we put on the Miro board:
     - only using primary colors at first - not to mix up hues with significance
     - weighting text for day/month/year & significance
     - inspired by Obsidian - note taking app that helps you take ideas
+ - David: to-do list
+   - rewards system: prizes and points to gamify ex. customizable background,
+   - Julie: growing a dragon, ownership through user choosing the egg
+- Mark: various designs for displaying a calendar, example of sports teams games
+  - only showing days where you worked on something - days of interest
+  - ordered by date
+  - could have different shapes and colors
+- Brandon: calendar design
+  - user can choose background
+  - changing shape, colors of specific days
+  - resizing - keep the background but the calendar can stretch
+  - custom template for each month - user can change the properties like shapes
+- Ginger
+  - using grid layout in CSS to build a calendar
+  - s s vs. sat sun for accessibility
+  - highlight the current day  
+- Julie: combining task widget and calendar widget
+  - Two side bars: 1. due dates 2. to do list for a set amount of days
+ 
+### Tips from TAs
+- Explore the features that Github provides - Readme, Wikis, Projects, Actions, Issues
+- Explore how Git (and hosted offerings) work by creating issues, mapping those to pull requests, code reviews, etc work. Good and adequete usage of these features will be a component of your overall grade for this assignment.
+- **Keep an eye on the greater picture** - start strategizing on how you want to shape the overall project for this course using the tools shared with you in class such as miro boards.
+- Take full advantage of the **skills taught to you in the labs**. The labs this week and going forward will be teaching you essential skills related to both programming as well as Git related skills which if you can replicate in your project, you will be standing out
+- Teams experimenting with AI/LLM usage, make sure to separately document your team's thoughts on the incorporation of AI in your development process - how it affected your team's work, any benefits/drawbacks and finally if you plan to keep it in your toolkit going forward.
 
 ## Decisions
 Any decisions made & their reasoning (if there were dissenting opinions include them, then write why the group decided to make that decision anyways)
