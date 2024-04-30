@@ -32,8 +32,6 @@
    8. Mark: Provided idea on design and did the video. Has another idea for our future project: we can use our team logo as the logo for our app.
    9. David: Worked on date buttons and being able to click on the date and go back from that screen.
    10. Milana: Led the meeting the previous week. Discussed what needed to be done code wise. Setup the github issues and provided feedback on code. Worked on journal entries of the widget.
-3. Retrospective
-   4. See retrospective meeting minutes
 5. No agenda items unfinished
 ## Decisions
 1. In the future create a tasks list where people can sign up for certain tasks
@@ -42,4 +40,4 @@
 Include who, what, when it's due
 - [x] Task 1: Submit retrospective and regular meeting minutes, or otherwise make them available for submission, Nik, 6:30PM
 ### When the meeting finished: 
-5:35
+5:05
