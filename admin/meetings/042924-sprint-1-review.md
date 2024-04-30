@@ -10,7 +10,7 @@
 | -----------  | ----------- |----------- |-----------|
 | Milana       | Allison     | David      | Nikolas   |
 | Riana        | Brandon     | Ginger     | Mark (Xu) |
-| (team leads) | Charlie     | Julie      | Julio     |
+| (team leads) | Charlie     | Julie      |           |
 
 <!--If no one is absent you can delete this, else move their names to the table -->
 | Absent |
