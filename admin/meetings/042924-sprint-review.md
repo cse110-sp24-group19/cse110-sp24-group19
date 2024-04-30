@@ -1,5 +1,5 @@
 # Coding Monkeys (Team 19) Meeting Minutes
-# Reviewing Warmup
+# Sprint Review of Warmup
 
 **Date and time:** 04/29/2024 4:30 PM  
 **Location:** Virtual
