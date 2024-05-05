@@ -2,6 +2,7 @@
 # Meeting Topic
 
 **Date and time:** 05/05/2024 9:00 ~  10:38 am
+
 **Location:** Virtual 
 
 <!-- Note which members are present/absent (our team has 11 people) -->
