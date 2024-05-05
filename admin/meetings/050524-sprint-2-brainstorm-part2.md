@@ -1,7 +1,7 @@
 # Coding Monkeys (Team 19) Meeting Minutes
 # Meeting Topic
 
-**Date and time:** 05/05/2024 9:00 aM  
+**Date and time:** 05/05/2024 9:00 ~  10:38 am
 **Location:** Virtual 
 
 <!-- Note which members are present/absent (our team has 11 people) -->
@@ -101,5 +101,3 @@ Include who, what, when it's due
 - [ ] Task 1: Complete Pitch Document, (person?), due 05/05/2024
 
 
-### When the meeting finished: 
-10:38 am
