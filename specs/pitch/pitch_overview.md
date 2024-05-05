@@ -20,10 +20,17 @@ This can make it a great tool for reflection and personal growth.
   * Reward System --- Goal System
     * Planting a banana tree ---> user writes an entry, a banana is made ---> gold banana, sticker board and put a sticker on the board
     * Reminder Feature --- notifications, 1 week before
+* At least one integration --- Slack, Github, etc.
 
 ## Rabbit holes — Details about the solution worth calling out to avoid problems
-* 
+* Don't overcomplicate the problem
+* Be careful with the reward system, can feel manipulative. Keep it controlled and not pushy. Make it motivating not manipulative.
+* Focus on the base functionality first
+* We need to make features accessible to a large variety of user within our target demographic
+
 
 ## No-gos — Anything specifically excluded from the concept: functionality or use cases we intentionally aren’t covering to fit the appetite or make the problem tractable
-
-* 
+* Image handling
+* Google calendar integration
+* Latex
+* Program execution
