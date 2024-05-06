@@ -22,6 +22,8 @@ This can make it a great tool for reflection and personal growth.
     * Reminder Feature --- notifications, 1 week before
 * At least one integration --- Slack, Github, etc.
 
+[Link to Miro board](https://miro.com/app/board/uXjVKMn1_cg=/)
+
 ## Rabbit holes — Details about the solution worth calling out to avoid problems
 * Don't overcomplicate the problem
 * Be careful with the reward system, can feel manipulative. Keep it controlled and not pushy. Make it motivating not manipulative.
