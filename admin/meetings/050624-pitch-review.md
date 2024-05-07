@@ -28,6 +28,9 @@
      - Nik: be mindful about visual elements - tend to take the longest based on experience
      - David: notes from Thursday are represented here
 2. Vote on ideas for the reward system
+3. Chat about UI
+     - Miro board
+     - Home page with tree
 
 
 ## Decisions
@@ -37,8 +40,6 @@ Reward system
 
 ## To dos 
 Include who, what, when it's due
-- [x] Task 1: description, person, deadline
-- [ ] Task 2
+- [ ] Sketch of key pages of website, Nik and Milana, by EOD Tuesday
 
-
-### When the meeting finished: 
+### When the meeting finished: 5:05 pm
