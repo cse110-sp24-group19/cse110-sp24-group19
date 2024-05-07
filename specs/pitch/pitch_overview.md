@@ -13,8 +13,10 @@ This can make it a great tool for reflection and personal growth.
 
 ## Solution — The core elements we came up with, presented in a form that’s easy for people to immediately understand
 * Journal Entry feature --- add, edit, delete, and search journal entries
+  * Option for quick note vs more detailed --- have auto-populated/default fields for things like date, time, default labels
 * Calendar Widget --- links to journal entries and is populated for whatever you wrote for that day, popup, 1 entry per day is a limit
 * Data Backup --- hidden folder, if you backup data, it goes to the hidden folder, can't delete unless in our webapp
+* Companion Characters --- when users creates account/uses website for the first time, the user chooses a character that will be used for the widgets
 
 * Ideas for the future:
   * Reward System --- Goal System
