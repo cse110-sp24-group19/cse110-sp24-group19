@@ -1,15 +1,13 @@
 # Pipeline: Phase 1 Overview
 
-
-
-
 ![Phase 1 Diagram](relative link goes here)
+
 
 ## Current Funcitonality   
 
 ### Codacy
 
-* Code quality metrics
+* Code quality metrics reporting
   * Quality evolution chart tracks quality of issues, complex files, duplication, and code coverage. Currently based on Codacy default quality gates.
     
 * Automatic issue generation and breakdown by severity and category
@@ -19,6 +17,9 @@
 *
 
 ### JSDocs
+
+* 
+* 
 
 ### Branch Protection Rules
 
@@ -37,6 +38,10 @@
 
 * Do not allow bypassing the above settings
 
+### Super-Linter
+
+* 
+* 
 
 
 
