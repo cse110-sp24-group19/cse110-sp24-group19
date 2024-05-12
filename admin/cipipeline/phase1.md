@@ -21,8 +21,9 @@
 
 ### JSDocs
 
-*  
-* 
+* All functions should be documented with a description, parameters, and return values
+* Generates automatic documentation...
+  * Documentation can be viewed in out/index.html
 
 ### Branch Protection Rules
 
