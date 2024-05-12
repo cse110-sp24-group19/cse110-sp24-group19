@@ -38,7 +38,7 @@
 
 * Do not allow bypassing the above settings
 
-### Super-Linter
+### Linting
 
 * 
 * 
