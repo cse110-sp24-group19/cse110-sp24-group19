@@ -9,11 +9,15 @@
 
 * Code quality metrics reporting
   * Quality evolution chart tracks quality of issues, complex files, duplication, and code coverage. Currently based on Codacy default quality gates.
-    
-* Automatic issue generation and breakdown by severity and category
+ 
+* Automatic issue generation and breakdown by severity and category when a commit is pushed
 
-*
-*
+* Requires these default quality thresholds to be met before merging (May revise in the future)
+  * Otherwise merge will be blocked
+    
+
+
+
 
 ### JSDocs
 
@@ -37,9 +41,6 @@
 
 * Do not allow bypassing the above settings
 
-### Linting
-
-* 
 
 
 ### Unit Testing
