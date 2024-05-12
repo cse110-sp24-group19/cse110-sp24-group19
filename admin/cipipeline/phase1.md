@@ -18,7 +18,7 @@
 
 ### JSDocs
 
-* 
+* Automatic 
 * 
 
 ### Branch Protection Rules
@@ -41,7 +41,9 @@
 ### Linting
 
 * 
-* 
+
+
+### Unit Testing
 
 
 
