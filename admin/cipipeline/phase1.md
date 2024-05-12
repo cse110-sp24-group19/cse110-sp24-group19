@@ -11,14 +11,13 @@
   * Quality evolution chart tracks quality of issues, complex files, duplication, and code coverage. Currently based on Codacy default quality gates.
     
 * Automatic issue generation and breakdown by severity and category
-  
-* Linters enabled for
+
 *
 *
 
 ### JSDocs
 
-* Automatic 
+*  
 * 
 
 ### Branch Protection Rules
@@ -44,6 +43,9 @@
 
 
 ### Unit Testing
+
+* 
+* 
 
 
 
