@@ -1,6 +1,6 @@
 # Pipeline: Phase 1 Overview
 
-![Phase 1 Diagram](relative link goes here)
+![Phase 1 Diagram](phase1.png)
 
 
 ## Current Funcitonality   
