@@ -18,5 +18,5 @@ As we move forward with our design we need to decide which features to implement
 
 ## Decision Outcome
 
-Chosen option: Include goal setting page, because based on the discussion with our TA we needed to add more features to make our project more substantial. This is fitting for the project because it is a work journal for college students and recent grads who are Software Engineers, and goal setting can help them with their career goals. Additionally, there are options to integrate with journal entries and tasks, such as making tasks to complete a goal and linking a journal entry to a specific goal.
+Chosen option: Include goal setting page, because based on the discussion with our TA we needed to add more features to make our project more substantial. This is fitting for the project because it is a work journal for college students and recent grads who are Software Engineers, and goal setting can help them with their career goals. Additionally, there are possibilities to integrate with journal entries and tasks - features we were already including - such as making tasks to complete a goal and linking a journal entry to a specific goal.
 Here are meeting minutes for the meeting where this was discussed: https://github.com/cse110-sp24-group19/cse110-sp24-group19/blob/main/admin/meetings/051324.md
