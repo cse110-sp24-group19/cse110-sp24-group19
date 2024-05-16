@@ -1,12 +1,10 @@
 ---
-# Configuration for the Jekyll template "Just the Docs"
 parent: Decisions
 date: 2024-MM-DD
 title: ADR Template
 deciders: Allison, Brandon, Charlie, David, Ginger, Julie, Julio, Milana, Nikolas, Riana, Wenzhe
 ---
-<!-- we need to disable MD025, because we use the different heading "ADR Template" in the homepage (see above) than it is foreseen in the template -->
-<!-- markdownlint-disable-next-line MD025 -->
+
 # {short title of solved problem and solution}
 
 ## Context and Problem Statement
