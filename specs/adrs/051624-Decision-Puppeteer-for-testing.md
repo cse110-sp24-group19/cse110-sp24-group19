@@ -9,17 +9,13 @@ deciders: Allison, Brandon, Charlie, David, Ginger, Julie, Julio, Milana, Nikola
 
 ## Context and Problem Statement
 
-{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story.
- You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}
+As we develop our project, we want to incorporate End-to-End testing to make sure that our UI is functional and works when changes are made such as adding new features. This should be a tool that multiple people on the team feel comfortable using, that is used in industry or by other developers so we know it is reliable, and is free for us to use (has a license that allows us to use it).
 
 ## Considered Options
 
-* {title of option 1}
-* {title of option 2}
-* {title of option 3}
-* … <!-- numbers of options can vary -->
+* Puppeteer
+* Selenium: Web automated testing or other from https://katalon.com/resources-center/blog/end-to-end-e2e-testing-tools-frameworks
 
 ## Decision Outcome
 
-Chosen option: "{title of option 1}", because
-{justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
+Chosen option: Puppeteer, because everyone on the team has experience using this tool from lab 6. Therefore we will all be able to use it, contribute, and debug the tests, limiting our bus factor.
