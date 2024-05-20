@@ -25,10 +25,16 @@
 
 ## Decisions
 - Pages of app: work journal and calendar together or separate
+- Calendar view: each day is a sticky note
+   - for search the ones that don't match disappear
+   - shows date and note titles
+   - more grayscale notes for unfilled days
+   - clarify if previous months also show up in search
 
 ## To dos 
 Include who, what, when it's due
-- [x] Task 1: description, person, deadline
+- [ ] Make a visual of the pages we talked about: Nik will put that on the Miro board
+   - [ ] Calendar/journal preview: the sticky notes
 - [ ] Task 2
 
 
