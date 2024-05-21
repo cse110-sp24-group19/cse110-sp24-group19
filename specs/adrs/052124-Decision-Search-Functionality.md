@@ -1,6 +1,6 @@
 ---
 parent: Decisions
-date: 2024-MM-DD
+date: 2024-05-21
 title: Search Functionality
 deciders: Brandon, Charlie, David, Ginger, Julie, Milana, Riana
 ---
