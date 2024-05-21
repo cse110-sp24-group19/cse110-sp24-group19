@@ -53,7 +53,6 @@ Issues we're each going to work on:
    - functionality in terms of navigation
 
 ## To dos 
-Include who, what, when it's due
 - [ ] Make a visual of the pages we talked about: Nik will put that on the Miro board by EOD Tuesday
    - [ ] Calendar/journal preview: the sticky notes
 - [ ] Attend development meeting tomorrow 3:30 (Riana will bring donuts! 🍩 😋 )
