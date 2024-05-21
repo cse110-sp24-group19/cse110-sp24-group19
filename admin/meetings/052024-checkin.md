@@ -27,6 +27,7 @@
 Issues we're each going to work on:
 - Nik made character class, asked for someone to look at the JSdocs workflow to get it to work
    - when editing it's not overwriting what's in the docs folder
+   - Character backend docs: https://cse110-sp24-group19.github.io/final-project/Character.html
 - Ginger: html of goal setting, links on home page
 - Allison goal setting page functionality: edit/delete/add tasks, can also do CSS design for the page - we'll make a new issue
 - Charlie: notification systems: daily, weekly, longterm reminders, can help with back end
