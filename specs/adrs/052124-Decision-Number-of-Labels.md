@@ -3,7 +3,7 @@
 parent: Decisions
 date: 2024-05-21
 title: Default Labels for Journal Entries
-deciders: Allison, Brandon, Charlie, David, Ginger, Julie, Julio, Milana, Nikolas, Riana, Wenzhe
+deciders: Brandon, Charlie, David, Ginger, Julie, Milana, Riana
 
 ---
 
