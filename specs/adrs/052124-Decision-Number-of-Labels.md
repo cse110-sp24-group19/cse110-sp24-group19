@@ -4,6 +4,7 @@ parent: Decisions
 date: 2024-05-21
 title: Default Labels for Journal Entries
 deciders: Brandon, Charlie, David, Ginger, Julie, Milana, Riana
+status: Superseded by ADR dated 2024-06-02
 
 ---
 
