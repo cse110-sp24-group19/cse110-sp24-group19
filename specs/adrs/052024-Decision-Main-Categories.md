@@ -3,6 +3,7 @@ parent: Decisions
 date: 2024-05-20
 title: Main Categories for Application
 deciders: Allison, Brandon, Charlie, David, Ginger, Julie, Julio, Milana, Nikolas, Riana, Wenzhe
+status: Updated on 2024-05-30 by "Add Reward Page to Main Categories"
 ---
 
 # Main Categories for Application: Journal/Calendar, Goal-Setting, and Creative Play
