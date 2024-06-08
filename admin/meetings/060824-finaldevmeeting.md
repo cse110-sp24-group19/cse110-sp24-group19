@@ -59,7 +59,7 @@ Include who, what, when it's due
 - [ ] Journal entry - have go back button in upper left
 - [ ] Goal page - navigate with tabs
 - [ ] Video content from above
-- [ ] Flow chart - classes, structure, how the functions relate to each other -> to have class files in the JS 
+- [ ] Flow chart - classes, structure, how the functions relate to each other -> to have class files in the JS - Ginger will work on this in repo
 
 Bugs
 - [ ] Rewards page to fix with local storage
